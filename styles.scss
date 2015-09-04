@@ -1,5 +1,13 @@
+body {
+	background-color: white;
+}
+
+.newsletter-email.newsletter-email {
+	width: 250px;
+}
+
 .content-wrapper {
-	width: 1000px;
+	width: 100%;
 	margin: 0 auto 0 auto;
 }
 
@@ -8,14 +16,23 @@
 }
 
 .post-heading .post-title {
-	font-size: 24px;
+	font-size: 30px;
 	font-family: georgia;
 	font-weight: 200;
+	margin-left: 10px;
 }
 
 .posts-list .post {
-	padding: 20px 0 20px 10px;
+	padding: 20px 0 25px 0px;
 	margin-top: 15px;
+}
+
+.post-meta-item {
+	margin-left: 10px;
+}
+
+.post-author {
+	margin-left: 10px;
 }
 
 form input[type=text] {
