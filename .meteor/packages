@@ -39,3 +39,5 @@ telescope:update-prompt
 
 # custom
 fourseven:scss
+jeremy:telescope-plugin-hero
+telescope:debug

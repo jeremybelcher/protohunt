@@ -2,12 +2,39 @@ body {
 	background-color: white;
 }
 
+.top-nav .header {
+	height:200px;
+}
+
+.logo a{
+	font-size: 2em;
+	font-weight: 200;
+}
+
+
+.hello {
+	width: 1000px;
+	margin: auto;
+	height: 250px;
+}
+
+.grid-module {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.custom-hero-banner{
+  text-align: left;
+  color: #333;
+  font-family: georgia;
+}
+
 .newsletter-email.newsletter-email {
 	width: 250px;
 }
 
 .content-wrapper {
-	width: 100%;
+	width: 1000px;
 	margin: 0 auto 0 auto;
 }
 
@@ -15,11 +42,15 @@ body {
 	margin-top: 50px;
 }
 
+.post-heading {
+	padding-left: 15px;
+}
+
 .post-heading .post-title {
 	font-size: 30px;
 	font-family: georgia;
 	font-weight: 200;
-	margin-left: 10px;
+	
 }
 
 .posts-list .post {
@@ -34,6 +65,7 @@ body {
 .post-author {
 	margin-left: 10px;
 }
+
 
 form input[type=text] {
 	height: 60px;
