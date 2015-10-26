@@ -39,12 +39,18 @@ body {
 	margin: 0 auto 0 auto;
 }
 
+
+@media (max-width: 1000px) {
+	.content-wrapper { 
+		width: 100%;}
+}
+
 .at-form {
 	margin-top: 50px;
 }
 
 .post-heading {
-	padding-left: 15px;
+	padding-left: 10px;
 }
 
 .post-heading .post-title {
@@ -64,7 +70,7 @@ body {
 }
 
 .post-author {
-	margin-left: 10px;
+	margin-left: 0px;
 }
 
 
